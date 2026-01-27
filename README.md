@@ -78,10 +78,9 @@ python task_distill.py --data_dir SST-2 --teacher_model teacher_model --student_
 
 ----
 
+<br />
 
-========
-TinyBERT
-========
+# ========TinyBERT========
 
 TinyBERT is 7.5x smaller and 9.4x faster on inference than BERT-base and achieves competitive performances in the tasks of natural language understanding. It performs a novel transformer distillation at both the pre-training and task-specific learning stages. The overview of TinyBERT learning is illustrated as follows: 
 <br />
