@@ -1,0 +1,21 @@
+1_pre_data/glove.6B.100d.txt
+1_pre_data/glove.6B.100d.txt.gz
+
+# 模型权重文件
+*.pth
+*.bin
+*.pt
+*.ckpt
+
+# 数据集与压缩包
+*.zip
+*.tar.gz
+*.csv
+*.jsonl
+data/
+
+# 训练日志与临时文件
+runs/
+logs/
+__pycache__/
+*.log
